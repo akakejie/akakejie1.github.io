@@ -1,0 +1,49 @@
+p{
+    font-family: ' Proxima Nova', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-indent: 50px;
+    border-left: 5px solid #748D92; 
+    padding-left: 10px; 
+    text-align: justify;
+    padding: 10px;
+    background: #D3D9D4;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    color: #212A31;
+    line-height: 2;
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 
+{
+        text-shadow: 1px 1px #2E3944;        
+        background: #D3D9D4;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        width: 80% ;
+        box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+
+
+}
+h2
+{
+        text-shadow: 1px 1px #2E3944;        
+        background: #D3D9D4;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        border-left: 5px solid #748D92; 
+        box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+        margin-left: 20px;
+        text-align: center;
+
+}
+    
+    
+body 
+{
+        background-color: #124E66; 
+}
